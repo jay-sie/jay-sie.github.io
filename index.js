@@ -25,4 +25,3 @@ function hitdisLikes2() {
   countdisLikes2.textContent = totaldisLikes2.toString()
 }
 btndisLike2.addEventListener("click",hitdisLikes2)
-btnLike2.addEventListener("click",hitLikes2)
